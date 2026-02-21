@@ -46,13 +46,13 @@ This project demonstrates a complete workflow for exploring and cleaning custome
 
 1. Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/sammapesa-maker/CUSTOMER-DATA-PROJECT
 ````
 
 2. Navigate to the project folder:
 
 ```bash
-cd <project_folder>
+cd CUSTOMER-DATA-PROJECT
 ```
 
 3. Launch Jupyter Notebook:
